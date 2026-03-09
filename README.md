@@ -288,8 +288,8 @@ Tested on:
   author     = {Sharath, V},
   school     = {Ramaiah Institute of Technology, Bengaluru},
   year       = {2026},
-  type       = {M.Tech Thesis},
-  department = {Computer Science and Engineering}
+  type       = {M.Tech Project},
+  department = {CSE(AI&ML)}
 }
 ```
 
