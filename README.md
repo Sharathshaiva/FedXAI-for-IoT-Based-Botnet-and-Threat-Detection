@@ -9,8 +9,8 @@
 ![False Negatives](https://img.shields.io/badge/False_Negatives-0-2E7D32?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
-**M.Tech Thesis Project · Ramaiah Institute of Technology, Bengaluru**  
-*Sharath V · Dept. of Computer Science and Engineering · 2025–2026*
+**M.Tech Project · Ramaiah Institute of Technology, Bengaluru**  
+*Sharath V · Dept. of CSE(AI&ML) · 2025–2026*
 
 [Overview](#overview) · [Results](#results) · [Quick Start](#quick-start) · [Architecture](#architecture) · [Dashboard](#dashboard) · [Citation](#citation)
 
