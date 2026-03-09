@@ -1,10 +1,24 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-torch
-flwr
-shap
-lime
-joblib
+# FedXAI — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core ML
+tensorflow==2.19.0
+numpy==1.26.4
+scikit-learn>=1.3.0
+pandas>=2.0.0
+
+# Federated Learning
+flwr==1.11.0
+
+# Explainability
+shap==0.46.0
+lime>=0.2.0.1
+
+# Dashboard
+streamlit>=1.32.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+imbalanced-learn>=0.11.0
+pickle5; python_version < "3.8"
